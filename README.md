@@ -23,8 +23,7 @@ API's build can be used where users can share their thoughts, react to friend's 
 Packages used includes Express.js for routing, and Mongoose packages.
 
 ## Demo
-![Screen Shot 2022-07-07 at 20 45 52](https://user-images.githubusercontent.com/55201249/178647826-5d5ed201-d192-4351-b18f-3103965c5a79.png)
-
+![Uploading Screen Recording 2022-07-12 at 23.52.19.gif…]()
 
 
 ## Setup
